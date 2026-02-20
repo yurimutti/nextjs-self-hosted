@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #both app folders start with 'next-app'
-LIVE_DIR_PATH=/var/www/html/nextjs-self-hosted-blue-green/next-app
+LIVE_DIR_PATH=/var/www/html/nextjs-self-hosted-blue-green/zero-downtime/vps-pm2-nginx/next-app
 
 #add the suffixes to the app folders
 BLUE_DIR=$LIVE_DIR_PATH-blue
